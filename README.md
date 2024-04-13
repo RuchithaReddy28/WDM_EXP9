@@ -27,15 +27,13 @@ for this purpose.
 
 
 ### Output:
-
+```
 Name: Akkireddy Ruchitha Reddy
 Reg no:212221230004
-
+```
 ![image](https://github.com/Rakshithadevi/WDM_EXP9/assets/94165326/de715144-84c6-4f91-9ba5-026eb4c3d5db)
 
 ![image](https://github.com/Rakshithadevi/WDM_EXP9/assets/94165326/f5d14ffd-4d9b-4a50-94d5-7d55b043265e)
-
-
 
 ![image](https://github.com/Rakshithadevi/WDM_EXP9/assets/94165326/4408d1c6-36ac-469b-b765-6ed9f39a854d)
 
